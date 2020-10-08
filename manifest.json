@@ -1,0 +1,19 @@
+{
+    "name":"Cookie Tracker",
+    "version":"1.0",
+    "description":"Tracking all cookies on page!",
+    "manifest_version":2,
+    "icons": {"48": "icon48.png"},
+    "background":
+        {
+            "scripts":["jquery.js","back_thread.js"],
+            "persistent":true
+
+        },
+    "permissions":["tabs", "cookies","activeTab","webRequest","declarativeContent", "https://*/*"],
+    "browser_action":{
+        "default_popup":"cookie_home.html"
+    }
+    
+
+}

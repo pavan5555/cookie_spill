@@ -1,0 +1,403 @@
+"third_parties": [
+    "",
+    "8114842.fls.doubleclick.net",
+    "a.tribalfusion.com",
+    "adservice.google.com",
+    "adservice.google.de",
+    "ak-us-dyn.wal.co",
+    "ak-us.wal.co",
+    "b.wal.co",
+    "bat.bing.com",
+    "cf-us-dyn.wal.co",
+    "cf-us.wal.co",
+    "connect.facebook.net",
+    "ct.pinterest.com",
+    "cx.atdmt.com",
+    "ec-us-dyn.wal.co",
+    "ec-us.wal.co",
+    "googleads.g.doubleclick.net",
+    "gum.criteo.com",
+    "i5-opt-pulsar.wal.co",
+    "i5-opt-v0.wal.co",
+    "i5-opt-v1.wal.co",
+    "i5.wal.co",
+    "i5.walmartimages.com",
+    "ib.adnxs.com",
+    "idsync.rlcdn.com",
+    "ll-us-dyn.wal.co",
+    "ll-us.wal.co",
+    "loadus.exelator.com",
+    "pagead2.googlesyndication.com",
+    "s.yimg.com",
+    "secure.adnxs.com",
+    "securepubads.g.doubleclick.net",
+    "sp.analytics.yahoo.com",
+    "t.myvisualiq.net",
+    "tapestry.tapad.com",
+    "tpc.googlesyndication.com",
+    "us-dyn.tb.wal.co",
+    "us.tb.wal.co",
+    "vt.myvisualiq.net",
+    "www.facebook.com",
+    "www.google.com",
+    "www.google.de",
+    "www.googleadservices.com",
+    "www.googletagmanager.com",
+    "www.googletagservices.com",
+    "zy-us-dyn.wal.co",
+    "zy-us.wal.co"
+  ],
+
+
+  "tracker_requests": [
+     "8114842.fls.doubleclick.net",
+     "a.tribalfusion.com",
+     "adservice.google.com",
+     "adservice.google.de",
+     "connect.facebook.net",
+     "ct.pinterest.com",
+     "cx.atdmt.com",
+     "googleads.g.doubleclick.net",
+     "gum.criteo.com",
+     "i5.wal.co",
+     "ib.adnxs.com",
+     "idsync.rlcdn.com",
+     "loadus.exelator.com",
+     "pagead2.googlesyndication.com",
+     "s.yimg.com",
+     "secure.adnxs.com",
+     "securepubads.g.doubleclick.net",
+     "sp.analytics.yahoo.com",
+     "t.myvisualiq.net",
+     "tapestry.tapad.com",
+     "tpc.googlesyndication.com",
+     "vt.myvisualiq.net",
+     "www.facebook.com",
+     "www.google.com",
+     "www.googleadservices.com",
+     "www.googletagmanager.com"
+   ],
+
+
+
+
+http://forums.mozillazine.org/viewtopic.php?f=38&t=200896
+
+some more
+
+2o7.net
+addfreestats.com
+advertising.com
+channelintelligence.com
+clickability.com
+clickability.com
+coremetrics.com
+cybermonitor.com
+doubleclick.net
+estat.com
+fastclick.net
+gostats.com
+hitbox.com
+masterstats.com
+realmedia.com
+sexcounter.com
+sextracker.com
+sitemeter.com
+sitestat.com
+spinbox.net
+spylog.com
+statcounter.com
+tribalfusion.com
+webstat.com
+webtrendslive.com
+
+
+unconfirmed :
+
+100hot.com
+207.net
+247media.com
+247realmedia.com
+2o7.com
+2o7.net
+207.txt
+7adpower.com
+7search.com
+8ad.com
+911promotion.com
+aboutblank.com
+adbreak.com
+adbureau.com
+adbutler.com
+adbutler.de
+adbutler.net
+addiva.com
+addiva.net
+addynamix.com
+addynamix.net
+adforce.com
+adgoblin.com
+admonitor.com
+admonitor.net
+adorigin.com
+adorigin.net
+ads360.com
+ads360.net
+adserver.com
+adserver.txt
+ad-slow.com
+adtech.de
+adtrak.net
+adult-links.com
+advertising.com
+advertising.net
+affiliate.txt
+affiliateshop.com
+affiliaeshop.net
+atdmt.com
+atdmt.net
+atdmt.txt
+aureate.com
+avenuea.com
+avertising.com
+bankads.com
+bannerbank.net
+betterinternet.com
+bfast.com
+bfast.net
+bizrate.com
+bluemountain.com
+bluestreak.txt
+bpath.com
+brilliantdigital.com
+browseraidtoolbar.com
+casalemedia.txt
+centport.com
+centport.net
+cj.com
+claria.com
+click2net.com
+clickagents.com
+clickfinders.com
+coldfushion.com
+coldfushion.net
+com.winactive
+com.winactivej
+comclick.com
+cometcursor.com
+cometcursor.net
+cometcursors.com
+cometcursors.net
+commission-junction.com
+commission-junction.net
+coolweb.com
+coolweb.net
+coolwebsearch.com
+coolwebsearch.net
+coolwwwsearch.com
+coremetrics.com
+coremetrics.net
+cydoor.com
+dbbsrv.com
+dealtime.com
+directnetadvertising.com
+directnetadvertising.net
+doubleclick.co.uk
+doubleclick.com
+doubleclick.net
+downloadacceleratorplus.com
+downloadware.com
+easyhits4u.com
+ebch.com
+ebdv.com
+ebkn.com
+ebky.com
+eblv.com
+ebvr.com
+ecwz.com
+ecye.com
+edbw.com
+eded.com
+edit.com
+eduy.com
+engage.com
+enliven.com
+entk.txt
+epilot.com
+ezula.com
+fastadvert.com
+fastclick.com
+fastclick.net
+findwhat.com
+flycast.com
+flyswat.com
+focalink.com
+gain.com
+gator.com
+gator.net
+gatoradvertisinginformationnetworks.com
+gatoradvertisinginformationnetworks.net
+go2net.txt
+hightraffic.com
+hightrafficads.com
+hightraffics.net
+hitbox.com
+hitbox.net
+hitboxcentral.com
+hitboxcentral.net
+hitslink.com
+hotbar.com
+hotlog.ru
+hotnaughtywifes.com
+huntbar.com
+hyperbanner.net
+iball.com
+ibmx.com
+icwb.com
+icwo.com
+icwp.com
+iddh.com
+ieaccess.com
+ifiz.com
+iguu.com
+imagessaleshound.com
+inetspeak.com
+infinate-ads.com
+internetfuel.com
+kazaa.com
+limewire.com
+linkbuddies.com
+links4ads.com
+linksynergy.com
+lop.com
+mainentrypoint.com
+mainentrypoint.net
+market.net
+marketscore.com
+marketscore.net
+maxcraft.com
+maxserving.com
+maxserving.txt
+mediaplex.com
+moneytree.com
+narrowcastmebia.com
+nnselect.com
+offshoreclick.com
+online-dialer.com
+opentracker.com
+opentracker.net
+overture.com
+oxcahs.com
+partnercash.de
+paycounter.com
+paypopup.com
+permedia.com
+pointroll.com
+popupsponser.com
+popuptraffic.com
+porntrack.com
+porntracker.com
+preferences.com
+pstats.com
+qksrv.com
+qksrv.net
+qksv.com
+qksv.net
+questionmarket.com
+questionmarket.net
+radiate.com
+rapidblaster.com
+realmedia.fr
+realtracker.com
+realtracker.net
+revenue.com
+revenue.txt
+rightmedia.txt
+roispy.com
+ru4.com
+s005-01-4-11-234545-68181.com
+saleshound.com
+samz.com
+saoe.com
+saveu.com
+saveu.net
+sbjr.com
+sbnl.com
+sbnt.com
+sbvr.com
+scdm.com
+scrippsnet.com
+scrippts.com
+scrk.com
+sdy.com
+search.net
+search-explorer.com
+searchitbar.com
+seld.com
+servedby.com
+servedbyadvertising.com
+servedforvalued.com
+servedforvaluead.com
+sex-in-www.com
+sexlist.com
+sextracker.com
+sfux.com
+sheat.com
+sipo.com
+smartadserver.com
+smartclick.com
+smartclick.net
+smds.com
+specificpop.com
+spematrix.com
+spylog.com
+srib.com
+srox.com
+srsf.com
+ssaw.com
+ssdy.com
+stripplayer.com
+superbar.com
+surj.com
+targetnet.com
+tbvg.com
+tdak.com
+techtarget.com
+tefs.com
+tfil.com
+thako.com
+tinybar.com
+titantv.txt
+torc.com
+tradedouble.com
+trafficmarketplace.com
+trafficmp.com
+trafficsupport.com
+trafficvenue.net
+trakkerd.net
+travelocity.com
+tribalfusion.com
+tribalfusion.net
+tzko.com
+ubbthreads.com
+utopiad.com
+valued.com
+valueclick.com
+valueclick.net.jp
+valueclick.net
+wbkb.com
+webads.com
+webtrendlive.com
+wegcash.com
+wegcash.net
+wfix.com
+wflu.com
+wildtangent.com
+x1.com
+x10.com
+xrenoder.com
+xupiter.com
+xxxcounter.com
+xxxtoolbar.com
+z ladserver.com
+z ladserver.txt
